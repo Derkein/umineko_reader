@@ -8,4 +8,4 @@ https://mega.nz/file/3AMBzLIR#Uz7sRrX0tmzIbJSk_vhWL3ajzqDNA7Zi8QD5ZFdtZKw,
 
 the chosen folder structure should be like the image 
 
-![Example Image](Example.jpg)
+![Example Image](Example.JPG)
